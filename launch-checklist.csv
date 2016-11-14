@@ -1,0 +1,40 @@
+Browser and device testing
+Final design QA
+Final design approval
+301 Redirects for existing URLs
+Check that robots.txt is present and configured properly
+sitemap.xml is present and populated
+Setup + confirm automatic backup
+Consider enabling New Relic monitoring
+Disable PHP or Drupal error messages for non-admins
+Add ids to google analytics - important!!!
+Error Pages: 403 Forbidden (not completely necessary)
+Error Pages: 404 Page Not Found
+Error Pages: 500 Server Error
+Assets: Favicon (16x16)
+Assets: Touch icons (apple-touch-icon.png)
+Metadata: Description
+Metadata: Viewport
+Metadata: Check for sharing metadata on FB, Twitter, etc.
+Perf: Check performance through YSlow, Webpagetest, https://loadimpact.com
+Perf: Cache Pages, CSS, JS.
+Perf: Minify CSS/JS.
+Perf: Enable Object Cache/WP Redis
+Perf: Cache API Data (WordPress transients)
+Perf: Enable server side compression if applicable
+Perf: Preload site cache if possible
+Fonts: Switch client to their own account
+Fonts: make sure correct URLs are in font hosting settings
+Fonts: make sure typography settings are set for http AND www
+Hosting: Set up Client hosting account (change ownership - give their IT team access, etc)
+Hosting: Lower TTL
+Hosting: Point DNS zone records (A/CNAME) to production server
+Hosting: Update name server information on the domain registrar's website
+Hosting: Add domain names to pantheon
+Hosting: Check domain name redirects
+Site Engines: Google
+Site Engines: Bing
+Site Engines: Yahoo
+Pages are being cached
+Analytics information is being recorded
+Check that email at the web site’s domain is working
