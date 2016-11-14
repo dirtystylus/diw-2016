@@ -16,3 +16,4 @@ https://speakerdeck.com/mllobrera/diw-2016-github-project-scaffolding-with-googl
 
 * client_secret.json: this is where you put your Google API JSON credentials
 * launch-checklist.csv: an example CSV file for writing to the Github API
+* Delaware Innovation Week 2016.pdf (Slides)
